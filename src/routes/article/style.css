@@ -1,0 +1,25 @@
+.AP {
+  margin-top: 4rem; 
+}
+
+.T_s {
+  padding: 0.5rem 1rem;
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: #b8a246;
+  text-transform: uppercase;
+}
+.LNW_li {
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.LNW_li:last-child {
+  border-bottom: 0;
+}
+
+@media (min-width: 960px) {
+  .AP {
+    margin-top: 6rem;
+  }
+}

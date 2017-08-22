@@ -1,0 +1,13 @@
+.HP {
+  margin-top: 4rem;
+}
+.Hr {
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
+@media (min-width: 960px) {
+  .HP {
+    margin-top: 6rem;
+  }
+}

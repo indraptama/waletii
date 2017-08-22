@@ -1,0 +1,97 @@
+/* MAIN HEADER */
+.MAINHEADER {
+  background-color: #fff;
+}
+
+.MH {
+  background-color: #FFF;
+  min-height: 4rem;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  border-top: 2px solid rgba(184, 162, 70, 1);
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  width: 100%;
+  z-index: 998;
+  transform: translate3d(0,0,0);
+}
+
+.MH_CS {
+  min-height: 2rem;
+  background-color: #fff;
+  padding: 0 1rem;
+  display: none;
+  border-bottom: 1px solid rgba(184, 162, 70, 0.5);
+}
+
+.MH_CB {
+  min-height: 4rem;
+  padding: 0 1rem;
+}
+
+/* MAIN SIDEBAR */
+
+.MS {
+  background-color: rgba(0, 0, 0, 0.65);
+  bottom: 0;
+  display: block;
+  height: 100%;
+  left: 0;
+  position: fixed;
+  right: 0;
+  top: 0;
+  width: 100%;
+  z-index: 999;
+  transform: translate3d(100%,0,0);
+  transition: all 1ms ease;
+}
+
+.MS_C {
+  background-color: #fff;
+  bottom: 0;
+  overflow-y: scroll;
+  padding: 2rem 0;
+  position: fixed;
+  right: 0;
+  top: 0;
+  width: 100%;
+  box-shadow: -1px 0 15px 0 rgba(0,0,0,.85);
+  max-width: 300px;
+  transition: all 250ms ease;
+  transform: translate3d(100%,0,0);
+}
+
+.MS_EB button {
+  border: none;
+  background-color: transparent;
+  font-size: 40px;
+  line-height: 1;
+  text-align: center;
+  outline: none;
+}
+
+.MS_C_L {
+  margin: 0 auto 1rem;
+  width: 120px;
+}
+
+.MS_NAV a {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  padding: .65rem 1.5rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+
+@media (min-width: 60em) {
+  .MH_CS {
+    display: table;
+    width: 100%;
+  }
+  .MH_CS > * {
+    display: table-cell;
+  }
+
+}

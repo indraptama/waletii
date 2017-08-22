@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600');
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600,700|Maitree:400,600');
+
+html {
+  background-color: #fff;
+  font-size: 100%;
+  font-family: 'Montserrat';
+  color: #444;
+}
+
+body {
+  font-size: 0.875rem;
+  line-height: 1.5;
+}
+
+article {
+  font-family: 'Maitree', serif;
+  font-size: 1rem;
+  line-height: 1.618;
+}
+
+.primary,
+.current {
+  color: #b8a246;
+}
+
+.b--primary {
+  border-color: rgba(184, 162, 70, 0.15);
+}
+
+.b--primary-2 {
+  border-color: rgba(184, 162, 70,1);
+}
+
+.bg-primary {
+  background-color: rgba(184, 162, 70, 1);
+}
+
+.serif {
+  font-family: 'Maitree';
+}
+
+.w1px {
+  width: 1px;
+}
+
+.left-50 {
+  left: 50%
+}
+
+.elevation-10 {
+  box-shadow: 0px 6px 6px -3px rgba(0, 0, 0, 0.2), 0px 10px 14px 1px rgba(0, 0, 0, 0.14), 0px 4px 18px 3px rgba(0, 0, 0, 0.12);
+}
+
+.f8 {
+  font-size: .65rem;
+}
+
+.timeline-Header.timeline-InformationCircle-widgetParent {
+  display: none!important;
+}
+
+.column-2 {
+  columns: 2;
+}
+
+.mt--1 {
+  margin-top: -1px;
+}
+
+@media (min-width: 960px) {
+  .w-40-l {
+    width: 40%;
+  }
+
+  .w-60-l {
+    width: 60%;
+  }
+  .ft--4 {
+    transform: translateY(-2rem);
+  }
+  .bg-white-l {
+    background-color: #fff;
+  }
+
+  .ft--3-l {
+    transform: translateY(-3rem);
+  }
+
+  .ft--4-l {
+    transform: translateY(-6rem);
+  }
+
+  .min-h10-l {
+    min-height: 13rem;
+  }
+
+  .bg-primary-l {
+    background-color: rgba(184, 162, 70, 1);
+  }
+
+  .elevation-hover {
+    box-shadow: 0 0 0 0 rhba(0,0,0,0);
+  }
+
+  .elevation-hover:hover,
+  .elevation-hover:focus {
+    transition: all 250ms ease;
+    box-shadow: 0px 6px 6px -3px rgba(0, 0, 0, 0.2), 0px 10px 14px 1px rgba(0, 0, 0, 0.14), 0px 4px 18px 3px rgba(0, 0, 0, 0.12);
+  }
+
+}

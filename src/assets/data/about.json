@@ -1,0 +1,209 @@
+{
+  "name": "duniawallet.com",
+  "owner": "Drs. Arief Budiman",
+  "about": "DuniaWalet menyediakan informasi & produk lengkap bisnis walet, berguna bagi pemula yang akan memulai usaha budidaya walet ataupun untuk para pengusaha walet yang mengalami kasus di gedung walet atau sarang walet nya.\nDipandu oleh Arief Budiman, sebagai konsultan budidaya walet yang telah banyak menerbitkan buku teknik budidaya walet, berisi ilmu empirik hasil penelitian dan solusi atas problem walet dan bermacam kasus budidaya walet.",
+  "profile": "Alhamdulillah, Syukur saya panjatkan ke hadirat Ilahi Rabbi, Yang telah memberi kenikmatan dan keberkahan dalam kehidupan di dunia ini. Salawat dan salam hanya untuk Junjungan Nabi besar Muhammad SAW. Bakti dan Takzim untuk kedua orang tua saya yang telah menyekolahkan hingga tamat perguruan tinggi. Meskipun  saat acara wisuda, saya tidak bisa hadir sebab saya sibuk    bekerja di sebuah perusahaan media cetak di Semarang. Selama 5 tahun saya kerja  sebagai jurnalis di bawah group perusahan media milik bapak Dahlan Iskan.Bekerja sebagai jurnalis memang banyak suka dukanya. Sebenarnya saya sangat menikmatinya. Namun dengan alasan khsusus, akhirnya saya mengundurkan diri, dan lebih tertarik untuk mandiri. Cari nafkah dengan usaha sendiri yaitu dengan budidaya sarang walet.\nDi bidang budidaya burung walet ini saya menekuni sangat serius. Bahkan beberapa eksperimen saya lakukan. Dengan keseriusan  ini, akhirnya banyak kalangan mengakui saya sangat paham tentang budidaya burung berliur mahal ini. Dengan mengelola budidaya burung walet, saya merasa lebih tenang dan nyaman. Penghasilan yang saya perolehpun terasa lebih nikmat dan berkah. Saat waktu luang, bisa saya pergunakan untuk amal bakti sosial, dan aktif di bidang keagamaan.\nPada awal tahun 2000 saya mulai menulis buku, dan hingga kini banyak karya buku yang sudah saya tulis ( 15 judul buku tetantang budidaya walet) dan diterbitkan oleh Penebar Swadaya dan Media Pustaka, dan terdistribusi secara luas di seluruh toko buku Gramedia se Indonesia.\nSelain menulis buku, saya juga aktif memberi seminar tentang perwaletan. Seminar budidaya walet pertama saya selenggarakan di Hotel Sangga Buana Cianjur Jawa Barat pada tahun 1999. Jadi profesi ini sudah saya jalani selama 18 tahun.\nDi Lampung saya bekerja sama dengan Radar Lampung, di Jawa Timur saya bekerja sama dengan Malang Post, juga di Jakarta, Surabaya, Bali dan Bogor. Pada 2 tahun terakhir ini kami melakukan Seminar di 25 kota di Indonesia, baik di Kalimantan, Sulawesi, Sumatera maupun di NTB. Alhamdulillah semuanya terselenggara dengan baik dan mendapat respon yang sangat antusias dari para petani walet yang ada di berbagai daerah.\nSaya juga melayani jasa konsultasi, baik untuk membangun gedung, maupun memberi solusi untuk meningkatkan produktifitas sarang walet. Saya melayani jasa ini hingga ke seluruh pelosok Indonesia, hingga wilayah Malaysia,  Thailand, maupun Vietnam.Demikianlah sekilas profile saya. Salam sukses untuk petani walet dimanapun berada.",
+  "office": {
+    "head": {
+      "address": "Jl. Dr. Soetomo 41 Weleri – Kendal 51355, Jawa Tengah – Indonesia",
+      "phone": "+6282138388899",
+      "whatsapp": "085729486688",
+      "email": "arief.walet@gmail.com",
+      "operationTime": "Senin - Sabtu, Pukul 08.00 - 16.00 WIB"
+    },
+    "agent": {
+      "2": {
+        "avatar": "assets/images/ava/image-1.png",
+        "name": "kartawirawan",
+        "address": " jl. pangeran kuning gang rukun no. 39 tanjung puri",
+        "city": "sintang. ",
+        "provice": "kalimantan barat",
+        "contact": "81345443456"
+      },
+      "3": {
+        "avatar": "assets/images/ava/image-2.png",
+        "name": "widodo",
+        "address": "ds. karangsari rt. 08 rw. 03 kec. parenggean.",
+        "city": "kotawaringin timur sampit. ",
+        "provice": "kalimantan tengah",
+        "contact": "82255944994"
+      },
+      "4": {
+        "avatar": "assets/images/ava/image-3.png",
+        "name": "akhmad baihaqi",
+        "address": "jl. pelita i no. 4 rt. 18 kel. kuala pembuang 2",
+        "city": "seruyan ",
+        "provice": "kalimantan tengah",
+        "contact": "08125075650,085754953112"
+      },
+      "5": {
+        "avatar": "assets/images/ava/image-4.png",
+        "name": "taufiq",
+        "address": "cahaya foto. jl.a.yani 31b (samping bank bca) sampit. mentawa baru hulu",
+        "city": "kotawaringin timur. ",
+        "provice": "kalimantan tengah",
+        "contact": "081352887008,082250005022"
+      },
+      "6": {
+        "avatar": "assets/images/ava/image-5.png",
+        "name": "h. soeharto",
+        "address": "toko barokah. jl. pasar no. 186 kerengpangi",
+        "city": "katingan. ",
+        "provice": "kalimantan tengah",
+        "contact": "85349019114"
+      },
+      "7": {
+        "avatar": "assets/images/ava/image-6.png",
+        "name": "herry ancah",
+        "address": "jl. dr. murjani no. 21",
+        "city": "palangkaraya. ",
+        "provice": "kalimantan tengah",
+        "contact": "82353300456"
+      },
+      "8": {
+        "avatar": "assets/images/ava/image-7.png",
+        "name": "edy suryono",
+        "address": "jl. mayjend suprapto no. 37 rt 06 rw 01. kota kuala pembuang. seruyan hilir",
+        "city": "seruyan. ",
+        "provice": "kalimantan tengah",
+        "contact": "85247691010"
+      },
+      "9": {
+        "avatar": "assets/images/ava/image-8.png",
+        "name": "said ahmad taufik",
+        "address": "kodim 1014 – 03 kotawaringin lama. jl. pangkalan muntai",
+        "city": "pangkalanbun",
+        "provice": "kalimantan tengah",
+        "contact": " hp. 085386134244 / wa 082150750272 / bbm d2540085"
+      },
+      "10": {
+        "avatar": "assets/images/ava/image-9.png",
+        "name": "dudi erliadi",
+        "address": "jl. m. hatta. melak ulu rt 19",
+        "city": "kutai barat. ",
+        "provice": "kalimantan timur",
+        "contact": "81350670337"
+      },
+      "11": {
+        "avatar": "assets/images/ava/image-10.png",
+        "name": "haji ojie",
+        "address": "jl. pateh kota no 49a rt. 12 kel. mangkurawang kec. tenggarong",
+        "city": "kutai kartanegara. ",
+        "provice": "kalimantan timur",
+        "contact": "8125814502"
+      },
+      "12": {
+        "avatar": "assets/images/ava/image-11.png",
+        "name": "agus",
+        "address": "perum. balikpapan regency de tulip eb7 no. 18",
+        "city": "balikpapan. ",
+        "provice": "kalimantan timur",
+        "contact": "81370701604"
+      },
+      "13": {
+        "avatar": "assets/images/ava/image-12.png",
+        "name": "yandri",
+        "address": "jl. teuku umar rt. 11 gesaliq kel. barong tongkok kec. barong tongkok",
+        "city": "kutai barat. ",
+        "provice": "kalimantan timur",
+        "contact": "81347697541"
+      },
+      "14": {
+        "avatar": "assets/images/ava/image-13.png",
+        "name": "thedy",
+        "address": "jl. gereja gpib no. 31 a desa kuala lapang. kec. malinau barat.",
+        "city": "malinau",
+        "provice": "kalimantan utara",
+        "contact": "81254125075"
+      },
+      "15": {
+        "avatar": "assets/images/ava/image-14.png",
+        "name": "ilham bahar",
+        "address": "apotik bening jl. ahmad yani rt.02 no.10 kel. nunukan tengah kode pos 77482, ",
+        "city": "nunukan",
+        "provice": "kalimantan utara",
+        "contact": "082150926666 / wa 081347698465"
+      },
+      "16": {
+        "avatar": "assets/images/ava/image-15.png",
+        "name": "masrifuddin",
+        "address": "jl. p. antasari rt.08 nunukan timur . kec. nunukan kota.",
+        "city": "nunukan",
+        "provice": "kalimantan utara",
+        "contact": "08125402294 / wa 081258418049"
+      },
+      "17": {
+        "avatar": "assets/images/ava/image-16.png",
+        "name": "topan sahabuddin",
+        "address": "jl. ahmad yani km. 123 perumahan widya citra graha blok b no. 15 ds. sei baru kec. jorong",
+        "city": "tanah laut. ",
+        "provice": "kalimantan selatan",
+        "contact": "81349406896"
+      },
+      "18": {
+        "avatar": "assets/images/ava/image-17.png",
+        "name": "h. chalid",
+        "address": "jl. boulevard 28h",
+        "city": "makassar. ",
+        "provice": "sulawesi selatan",
+        "contact": "811446222"
+      },
+      "19": {
+        "avatar": "assets/images/ava/image-18.png",
+        "name": "herman",
+        "address": "jl. kh. imam bonjor kel. pasangkayu",
+        "city": "mamuju utara. ",
+        "provice": "sulawesi barat",
+        "contact": "81354805119"
+      },
+      "20": {
+        "avatar": "assets/images/ava/image-19.png",
+        "name": "achenk",
+        "address": "jl. tanjung harapan no. 41",
+        "city": "palu selatan",
+        "provice": "sulawesi tengah",
+        "contact": "82291798549"
+      },
+      "21": {
+        "avatar": "assets/images/ava/image-21.png",
+        "name": "ahmad ariadi",
+        "address": " jl. poros palu bangga ds. baliase kec. marawola",
+        "city": "kabunapten sigi. ",
+        "provice": "sulawesi tengah",
+        "contact": "82291999955"
+      },
+      "22": {
+        "avatar": "assets/images/ava/image-22.png",
+        "name": "yasin punonoo",
+        "address": "jl. dewi sartika. kel. dulalowo timur. kec. kota tengah",
+        "city": "gorontalo. ",
+        "provice": "gorontalo",
+        "contact": "81356658975"
+      },
+      "23": {
+        "avatar": "assets/images/ava/image-23.png",
+        "name": "pepen",
+        "address": "kai (karang agung ilir) primer 10 rt 04 rw 002 desa karang sari kec. banyuasin",
+        "city": "banyuasin. ",
+        "provice": "sumatera selatan",
+        "contact": "81279626432"
+      },
+      "24": {
+        "avatar": "assets/images/ava/image-24.png",
+        "name": "aang kusnadi",
+        "address": "jl. depati baridun rt 16/08 tulung selapan ilir. ogan komering",
+        "city": "ilir ",
+        "provice": "sumatera selatan",
+        "contact": "81257575454"
+      },
+      "25": {
+        "avatar": "assets/images/ava/image-25.png",
+        "name": "agus aripin",
+        "address": "jl. pasar ikan no. 32 parit tiga – jebus 33363 bangka barat",
+        "city": "bangka. ",
+        "provice": "bangka belitung",
+        "contact": "85267888999"
+      }
+    }
+  }
+}
