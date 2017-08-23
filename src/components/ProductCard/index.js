@@ -1,9 +1,10 @@
 import {h} from 'preact';
+import { Link } from 'preact-router/match';
 import style from './style';
 
 function ProductCard(props) {
   return (
-    <div className={style.ProductCard}>
+    <Link className={style.ProductCard} href={props.path}>
       <div className="bg-primary aspect-ratio aspect-ratio--1x1 aspect-ratio--4x3-l">
         <div className="aspect-ratio--object cover" style={`background:url(${props.image}) center`}>
           <img src={props.image} alt="" className="dn"/>
@@ -13,7 +14,7 @@ function ProductCard(props) {
         <h4 className="f6 truncate mb1">{props.title}</h4>
         <span className="primary f7 fw6">{props.price}</span>
       </div>
-    </div>
+    </Link>
   )
 }
 

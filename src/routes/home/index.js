@@ -104,19 +104,19 @@ export default class Home extends Component {
                 <div className="dtc w5 w-third-l pb3 pr3">
                   <ProductCard
                     title="Paket Suara Walet Original"
-                    path="/product"
+                    path="/produk"
                     image="assets/images/product/suara-1.jpg" />
                 </div>
                 <div className="dtc w5 w-third-l pb3 pr3">
                   <ProductCard
                     title="Walet Audio System (WAS)"
-                    path="/product"
+                    path="/produk"
                     image="assets/images/product/was-3.jpg" />
                 </div>
                 <div className="dtc w5 w-third-l pb3 pr3">
                   <ProductCard
                     title="Buku Panduan Budidaya Walet"
-                    path="/product"
+                    path="/produk"
                     image="assets/images/product/book-solusi.jpg" />
                 </div>
               </div>

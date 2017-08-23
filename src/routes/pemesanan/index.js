@@ -37,7 +37,7 @@ export default class Pemesanan extends Component {
         <div className="mw8 center bb b--black-10 pv4">
           <div className="flex-l">
             <div className="w-100 w-50-l mb3">
-              <img src="assets/icons/icon-sms.svg" alt="" className="mw5 center db"/>
+              <img src="assets/icons/icon-sms.svg" alt="" className="mw4 center db"/>
             </div>
             <div className="w-100 w-50-l">
               <h3 className="fw6 f5 primary mb3 ttc">Kirim Pesan Konfirmasi</h3>
