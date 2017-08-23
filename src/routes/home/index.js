@@ -7,7 +7,6 @@ import MessageBox from '../../components/MessageBox';
 import OwnerPicture from '../../components/OwnerPicture';
 import Carousel from '../../components/Carousel';
 import TestiBox from '../../components/TestiBox';
-import SearchBar from '../../components/SearchBar';
 import style from './style';
 
 export default class Home extends Component {
@@ -76,9 +75,7 @@ export default class Home extends Component {
           </div>
         </section>
 
-        <section>
-          <SearchBar />
-        </section>
+
         <section className="pv5 ph3 relative">
           <h2 className="f7 fw6 ttu tc tracked primary mb4 relative z-2">
             <span className="dib pa2 bg-white">Tentang Kami</span>

@@ -1,6 +1,7 @@
 import {h, Component} from 'preact';
 import fetch from 'unfetch';
 import AgentList from '../../components/AgentList';
+import SearchBar from '../../components/SearchBar';
 import style from './style';
 
 export default class Agen extends Component {
@@ -60,7 +61,7 @@ export default class Agen extends Component {
     const agenRender = Object.keys(agenSortProv).sort().map(prov => {
       return (
         <section className="mw8 center">
-          <h4 className="f7 ttc fw6 primary ph3 pv2 bg-near-white bg-white-l mt3-l">{`Agen ${prov}`}</h4>
+          <h4 className="f7 ttc fw6 primary ph3 pv2 bg-white-l mt3-l">{`Agen ${prov}`}</h4>
           <div className="flex-l flex-wrap">
             {(agenSortProv[prov]).map(agen => {
               return (
@@ -83,11 +84,14 @@ export default class Agen extends Component {
     return (
       <div>
         <div className="pt5" />
-        <section className="bg-primary ph3 mb3">
+        <section className="bg-primary ph3">
           <div className="flex items-center mw8 center vh-50">
             <div className="measure-wide white">
               <h2 className="f3 f2-l fw6 white">Agen Resmi</h2>
-              <p className="serif f5-l">Dapatkan produk-produk kami yang asli hanya di Agen-agen resmi terdekat di kota anda.</p>
+              <p className="serif f5-l mb3">Dapatkan produk-produk kami yang asli hanya di Agen-agen resmi terdekat di kota anda.</p>
+              <div className="measure-wide elevation-10">
+                <SearchBar placeholder="Cari Agen"/>
+              </div>
             </div>
           </div>
         </section>
